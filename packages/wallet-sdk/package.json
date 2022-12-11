@@ -50,7 +50,7 @@
     "buffer": "^6.0.3",
     "clsx": "^1.1.0",
     "eth-block-tracker": "4.4.3",
-    "eth-json-rpc-filters": "4.2.2",
+    "eth-json-rpc-filters": "git+https://github.com/zkitter/eth-json-rpc-filters.git#4.2.2",
     "eth-rpc-errors": "4.0.2",
     "json-rpc-engine": "6.1.0",
     "keccak": "^3.0.1",
